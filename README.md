@@ -10,8 +10,8 @@ Instructions (For Windows 7 users):
 2. Install Python 3.6 in Anaconda
 3. Install Tensorflow and Keras in Anaconda
 4. Download “vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5” file from “https://github.com/fchollet/deep-learning-models/releases” repository under “VGG16, VGG19, and ResNet50” heading
-5. Copy “vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5” file into “C:\Users\acer\.keras\models” folder 
-6.Create the folder “C:\Users\acer\images” for input picture
-Create another folder within it “C:\Users\acer\images\styles” for input style (art of any famous artist)
+5. Copy “vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5” file into “C:\Users\acer\.keras\models” folder
+6. Create the folder “C:\Users\acer\images” for input picture
+7. Create another folder within it “C:\Users\acer\images\styles” for input style (art of any famous artist)
 
 Note: Images must be of 512x512 pixels
