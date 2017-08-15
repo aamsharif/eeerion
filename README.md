@@ -3,7 +3,7 @@
 Generating Art using AI:
 You have to feed the program one image to which you wish to apply style another image of famous art as inputs. The program will apply the style from the famous art to your chosen image and generate a new art work.
 
-The program is tested on Spyder IDE on Anaconda environment. Please, do not run the whole python file at once. Run line by line in the interpreter. Code may take over 5 hours to run on an average CPU. Be patient.
+The program is tested on Spyder IDE on Anaconda environment. Please, do not run the whole python script at once. Run line by line in the interpreter. Code may take over 6 hours to run on an average CPU. Because, the concept is new. Be patient.
 
 Instructions (For Windows 7 users):
 1. Install Anaconda
