@@ -14,4 +14,4 @@ Instructions (For Windows 7 users):
 6. Create the folder “C:\Users\acer\images” for input picture
 7. Create another folder within it “C:\Users\acer\images\styles” for input style (art of any famous artist)
 
-Note: Images must be of 512x512 pixels
+Note: Images must be of 512 x 512 pixels
